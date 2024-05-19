@@ -7,7 +7,7 @@
 
     // 1. let newObject = { a: oldObject.a };
 
-    // console.lor(newObject);
+    // console.log(newObject);
 
 
 
